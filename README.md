@@ -1,11 +1,7 @@
-# Portfolio – Jméno Příjmení
+# Portfolio
 
-## O mně
-Krátké představení...
+Vítejte v portfoliu odborných bloků.
 
-## Odborné bloky
-- [Blok 1 – Název](portfolio/blocks/blok-01.md)
-- [Blok 2 – Název](portfolio/blocks/blok-02.md)
-
-## Kontakt
-...
+## Přehled bloků
+- [Blok 1 – Ukázkový projekt](blocks/blok-01.md)
+- [Blok 2 – Ukázkový projekt](blocks/blok-02.md)
