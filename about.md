@@ -1,3 +1,4 @@
+[Domů](/README.md) | [O mně](/about.md)
 # O mně
 
 ## Krátké představení autora
