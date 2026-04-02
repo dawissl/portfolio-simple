@@ -1,4 +1,3 @@
-
 # Teoretické pozadí – Blok 1
 
 Tento dokument obsahuje základní pojmy a principy potřebné pro pochopení **Bloku 1 – Ukázkový projekt**. Slouží jako slovník a krátká učebnice, kterou si můžete doplnit během práce na projektu.
