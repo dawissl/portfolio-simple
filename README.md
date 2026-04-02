@@ -36,6 +36,13 @@ Každý blok obsahuje:
   - [Praktická část](portfolio/blocks/blok-07.md)
   - [Teoretické pozadí](portfolio/teorie/teorie-07.md)
 
+---
+
 Kamil Votýpka - TL
 
 [O mně](/about.md)
+
+---
+Portfolio využívá k zobrazování GitHub Pages s pluginen Jekyll
+
+Dostupné na tomto odkazu [Webová prezentace portfolia](https://dawissl.github.io/portfolio-simple/)
