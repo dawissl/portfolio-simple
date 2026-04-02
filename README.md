@@ -36,4 +36,4 @@ Vítejte v portfoliu odborných bloků.
 
 Bc. David Sládeček - učitel odborných předmětů
 
-[Víc o mně](portfolio/about.md)
+[Víc o mně](/about.md)
