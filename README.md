@@ -1,4 +1,4 @@
-[Domů](/) | [O mně](/about.md)
+[Domů](/README.md) | [O mně](/about.md)
 # Přehled odborných bloků
 
 Vítejte v portfoliu odborných bloků.
