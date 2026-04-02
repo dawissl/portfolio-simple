@@ -35,4 +35,6 @@ Každý blok obsahuje:
 ## **Blok 7 – Střih videa**
   - [Praktická část](portfolio/blocks/blok-07.md)
   - [Teoretické pozadí](portfolio/teorie/teorie-07.md)
- 
+
+Kamil Votýpka - TL
+[O mně](/about.md)
