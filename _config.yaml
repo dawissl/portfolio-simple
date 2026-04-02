@@ -1,2 +1,4 @@
 title: Portfolio
 remote_theme: yaoyao-liu/minimal-light
+plugins:
+  - jekyll-remote-theme
