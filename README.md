@@ -16,7 +16,7 @@ Vítejte v portfoliu odborných bloků.
   - [Praktická část](portfolio/blocks/blok-03.md)
   - [Teoretické pozadí](portfolio/teorie/teorie-03.md)
 
- - **Blok 4 – Arduino**
+- **Blok 4 – Arduino**
   - [Praktická část](portfolio/blocks/blok-04.md)
   - [Teoretické pozadí](portfolio/teorie/teorie-04.md)
 
