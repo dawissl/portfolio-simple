@@ -34,6 +34,6 @@ Vítejte v portfoliu odborných bloků.
  
 ## O mně
 
-Bc. David Sládeček - učitel odborných předmětů
+Kamil Votýpka - TL
 
 [Víc o mně](/about.md)
