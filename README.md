@@ -3,6 +3,10 @@
 
 Vítejte v portfoliu odborných bloků.
 
+Každý blok obsahuje:
+- praktickou část (projekt)
+- teoretické pozadí (vysvětlení pojmů)
+  
 ## Přehled bloků
 
 ## **Blok 1 – Python – konzolová aplikace**
