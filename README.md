@@ -37,4 +37,5 @@ Každý blok obsahuje:
   - [Teoretické pozadí](portfolio/teorie/teorie-07.md)
 
 Kamil Votýpka - TL
+
 [O mně](/about.md)
