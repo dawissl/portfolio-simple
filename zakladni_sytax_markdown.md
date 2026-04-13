@@ -39,7 +39,7 @@ Odkazy
 
 Vložení obrázku
 
-![Popis obrázku](cesta/k/souboru.png)
+![Popis obrázku](/logo.png)
 
 Kód – inline
 
