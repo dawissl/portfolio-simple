@@ -1,4 +1,4 @@
-Základy Markdownu
+# Základy Markdownu
 Markdown je jednoduchý způsob formátování textu. Nepíšeš HTML tagy – používáš běžné znaky, které se automaticky zobrazí jako nadpisy, tučný text, seznam apod.
 
 Nadpisy
